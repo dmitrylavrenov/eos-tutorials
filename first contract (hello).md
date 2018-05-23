@@ -17,7 +17,7 @@ Public key: EOS5NEMYbtjMMmcivWsXm7sJ8mo3myjRaFDrUgk8D1YQwfJ5uvNhy
 
 * ```cleos wallet import <PRIVATE KEY> ```
 
-You need run this command for each private key from stored keypairs.
+You need to run this command for each private key from stored keypairs.
 
 * ```cleos wallet keys```
 
