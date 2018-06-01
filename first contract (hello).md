@@ -96,7 +96,7 @@ executed transaction: 74cb1dfb3388840dac812a2b2c712acfeeb29164540c2bb39b34c2eb99
 ## Testing a contract
 
 ```
-$ cleos push action hello hi '["test"]' -p eosio
+$ cleos push action hello hi '["test"]' -p test
 ```
 You will have output like as
 
