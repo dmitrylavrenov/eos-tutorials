@@ -96,12 +96,12 @@ executed transaction: 74cb1dfb3388840dac812a2b2c712acfeeb29164540c2bb39b34c2eb99
 ## Testing a contract
 
 ```
-$ cleos push action hello hi '["world"]' -p eosio
+$ cleos push action hello hi '["test"]' -p eosio
 ```
 You will have output like as
 
 ```
 executed transaction: 28d92256c8ffd8b0255be324e4596b7c745f50f85722d0c4400471bc184b9a16  244 bytes  1000 cycles
-#    hello <= hello::hi               {"user":"world"}
->> hello, user
+#    hello <= hello::hi               {"user":"test"}
+>> hello, test
 ```
